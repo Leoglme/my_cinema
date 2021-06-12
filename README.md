@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Création d'un site pour rechercher des films et ajouter des informations de films stocké en base de données. Le site à été réaliser par un framework créé par moi même dans le cadre d'un projet de formation.
+Création d'un site pour rechercher des films et ajouter des informations de films stocké en base de données. Le site à été réalisé dans le cadre d'un projet de formation pour objectif pour découvrir la programmation orientée objet en Php.
 
 ### Features
 
@@ -13,6 +13,9 @@ Création d'un site pour rechercher des films et ajouter des informations de fil
 - Modifier les informations d'un film
 - Ajouter un film
 - Supprimer un film
+
+## Demo
+> http://my-cinema.dibodev.com/
 
 ### Installation
 
