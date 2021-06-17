@@ -1,8 +1,7 @@
 # My_Cinema
 
 ### Introduction
-
-Création d'un site pour rechercher des films et ajouter des informations de films stocké en base de données. Le site à été réalisé dans le cadre d'un projet de formation pour objectif pour découvrir la programmation orientée objet en Php.
+Projet individuel from scratch de 1 semaine, l'objectif était de créer un site pour rechercher des films et ajouter des informations de films stocké en base de données et un "crud" disponible depuis un système d'administration. Ce projet à été réalisé avec les languages/techno Php(Programmation oriénté objet, CURL), Html/css et Javascript.
 
 ### Features
 
